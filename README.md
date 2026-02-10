@@ -141,15 +141,15 @@ Focus on real production constraints in interactive applications
 The following table compares the output of Shap-E (baseline) and Shap-E with RAG-enhanced prompts using identical input queries.
 
 
-| Prompt | Shap-E (Baseline) | Shap-E + RAG | Observations |
+| Prompt | Shap-E (Baseline) | Shap-E + RAG | 
 |------|------------------|-------------|--------------|
-| *"un cubo biselado (a beveled cube)"* | ![](Assets/shap-egifs/cubo_biselado.gif) | ![](Assets/rag_gifs/cubo_biselado_RAG.gif) | |
+| *"un cubo biselado (a beveled cube)"* | ![](Assets/shap-egifs/cubo_biselado.gif) | ![](Assets/rag_gifs/cubo_biselado_RAG.gif) | 
 | *"una caja de pc (a pc box)"* | ![](Assets/shap-egifs/caja_pc.gif) | ![](Assets/rag_gifs/caja_pc_RAG.gif) |  |
-| *"una caja eléctrica (an electric box)"* | ![](Assets/shap-egifs/caja_electrica.gif) | ![](Assets/rag_gifs/electric_box_rag.gif) |  |
-| *"un servidor rack 1u (a 1u servidor rack)"* | ![](Assets/shap-egifs/servidor_rack.gif) | ![](Assets/rag_gifs/servidor_rack.gif) |  |
-| *"una mesa (a table)"* | ![](Assets/shap-egifs/mesa.gif) | ![](assets/rag_gifs/mesa_rag.gif) |  |
-| *"un switch de ocho puertos (a eight port switch)"* | ![](Assets/shap-egifs/switch.gif) | ![](Assets/rag_gifs/switch_rag.gif) |  |
-| *"un router de red (a web router)"* | ![](Assets/shap-egifs/router.gif) | ![](Assets/rag_gifs/router_red_rag.gif) |  |
+| *"una caja eléctrica (an electric box)"* | ![](Assets/shap-egifs/caja_electrica.gif) | ![](Assets/rag_gifs/electric_box_rag.gif) |  
+| *"un servidor rack 1u (a 1u servidor rack)"* | ![](Assets/shap-egifs/servidor_rack.gif) | ![](Assets/rag_gifs/servidor_rack.gif) |  
+| *"una mesa (a table)"* | ![](Assets/shap-egifs/mesa.gif) | ![](Assets/rag_gifs/mesa_rag.gif) |  |
+| *"un switch de ocho puertos (a eight port switch)"* | ![](Assets/shap-egifs/switch.gif) | ![](Assets/rag_gifs/switch_rag.gif) |  
+| *"un router de red (a web router)"* | ![](Assets/shap-egifs/router.gif) | ![](Assets/rag_gifs/router_red_rag.gif) |  
 
 
 All comparisons were rendered using identical camera, lighting and animation settings to ensure consistency.
