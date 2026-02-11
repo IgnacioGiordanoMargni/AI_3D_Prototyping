@@ -118,9 +118,6 @@ The resulting 3D models can be compared visually (GIFs, renders, meshes).
 🧩 Project Structure
 .
 ├── 3d_docs/            # Text documents used for RAG
-├── Assets/
-│   ├── shap-e_gifs/    # Baseline outputs
-│   └── rag_gifs/       # Shap-E + RAG outputs
 ├── notebooks/          # Google Colab notebooks
 ├── README.md
 🚀 How to use
